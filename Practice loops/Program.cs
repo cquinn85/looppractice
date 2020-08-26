@@ -14,7 +14,7 @@ namespace Practice_loops
 
             for (int x = 0; x < 10; x++)
             {
-                Console.WriteLine(x) ;
+                Console.WriteLine($"{x} is less than 10.") ;
             }
 
             var myArray = new int[] { 2, 4, 6, 8, 10 };
